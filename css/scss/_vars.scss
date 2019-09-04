@@ -1,0 +1,19 @@
+// User variables:
+$accent: #e1e1e1;
+$text-white: #fff;
+$text-blue: #9d9acc;
+$bg-url-sprite: url('../../img/sprite-icons.png');
+$box-shadow-topmain: 0 15px 11px rgba(9,10,15,.15);
+$text-shadow-topmain: 0 5px 10px rgba(0,0,0,.1);
+$box-shadow-news: 0 22px 40px rgba(36,35,51,.45);
+$box-radius-news: 12px;
+$border-line: 2px solid rgba(157,154,204,.1);
+
+// Bootstrap compatible gutter variable => $gutter
+// $grid-gutter-width: 20px
+// $gutter: $grid-gutter-width
+
+// // Breakpoints mixin settings (node_modules/bootstrap/scss/mixins/_breakpoints.scss)
+// // Example: +media-breakpoint-down(xs) - ≥576px / +media-breakpoint-up(sm) - // ≤576px
+// // Default variables: node_modules/bootstrap/scss/_variables.scss
+// $grid-breakpoints: (xs: 0, sm: 576px, md: 768px, lg: 992px, xl: 1200px)
